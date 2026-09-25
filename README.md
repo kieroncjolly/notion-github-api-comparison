@@ -2,6 +2,10 @@
 
 A technical documentation project comparing the **GitHub REST API** and **Notion API** through hands-on API testing, JSON response analysis, authentication, pagination, and documentation research.
 
+### Full Documentation
+
+This repository contains a project overview and selected documentation examples. The complete technical documentation is available separately and can be provided upon request.
+
 ## What this project demonstrates
 
 * Reading and interpreting API documentation
